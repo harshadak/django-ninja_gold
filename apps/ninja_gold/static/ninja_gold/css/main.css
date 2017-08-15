@@ -1,0 +1,29 @@
+.buildings {
+    background-color: lightblue;
+    border: 2px solid gray;
+    height: 150px;
+    width: 250px;
+    display: inline-block;
+    text-align: center;
+    vertical-align: top;
+}
+
+#goldbox {
+    background-color: gold;
+    border: 2px solid gray;
+    height: 25px;
+    width: 50px;
+    display: inline-block;
+    text-align: center;
+    /* vertical-align: top; */
+}
+
+#goldboxtext {
+    display: inline-block;
+    /* vertical-align: top; */
+}
+
+#activitiesbox {
+    overflow: scroll; 
+    height: 200px;
+}
